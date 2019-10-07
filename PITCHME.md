@@ -1,11 +1,8 @@
-### GraphQL
-@fa[quote-left](A query language for your API)
-![GRAPHQL](assets/img/graphql.png)
+# Let's Get Started
 
-@snap[midpoint span-40]
 
-### GraphQL
-@fa[quote-left](A query language for your API)
-![GRAPHQL](assets/img/graphql.png)
+---
 
-@snapend
+## Add Some Slide Candy
+
+![](assets/img/presentation.png)
